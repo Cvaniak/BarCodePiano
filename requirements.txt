@@ -1,0 +1,6 @@
+evdev==1.4.0
+Pillow==8.3.2
+pynput==1.7.3
+python-barcode==0.13.1
+python-xlib==0.31
+six==1.16.0
