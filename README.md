@@ -1,6 +1,7 @@
 # Zebra Scanner - BarCode Piano
-*15 minutes* project
-This project was made to test and have some fun with Zebra barcode scanner.
+*15 minutes* project  
+This is piano on which you can play by scanning codes with barcode scanner.
+## How to run
 Just install requirements:
 ```bash
 pip3 install -r requirements.txt
